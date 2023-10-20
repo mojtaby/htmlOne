@@ -1,0 +1,12 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+mobil {
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
